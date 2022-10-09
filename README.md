@@ -14,7 +14,7 @@ In your GitHub Actions workflow, use this action like so:
 
 ```yaml
 - name: Install isort from PyPI
-  uses: install-pinned/isort@ffffffffffffffffffffffffffffffffffffffff
+  uses: install-pinned/isort@a9a0fdc1eca0962b2a4d93b76894d164101d87da  # 5.10.1
 ```
 
 ## Alternatives
