@@ -20,7 +20,7 @@ In your GitHub Actions workflow, use this action like so:
 
 ```yaml
       - name: Install isort from PyPI
-        uses: install-pinned/isort@587f4ba72b38e55bdd672b7dfcb8871a3c49234c  # 5.12.0
+        uses: install-pinned/isort@1ab1fbdd787fd13c790472799a8a8b9a71133a85  # 5.13.0
 ```
 
 You can [set up Dependabot](https://docs.github.com/en/code-security/dependabot/working-with-dependabot/keeping-your-actions-up-to-date-with-dependabot#example-dependabotyml-file-for-github-actions)
